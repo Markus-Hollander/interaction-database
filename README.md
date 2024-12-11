@@ -1,0 +1,1 @@
+Public version of an internal script to generate unified databases for gene definitions, gene annotation, identifier mapping and gene regulatory interactions. The configuration files, data sources and test cases have been removed to comply with data licensing and employer wishes.
